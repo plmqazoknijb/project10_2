@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">project10_2</string>
+    <string name ="btn_done">투표 종료</string>
+</resources>
