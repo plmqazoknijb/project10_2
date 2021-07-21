@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
+//Change ViewFlipper
 
 public class MainActivity extends AppCompatActivity {
     String[] imgNames ={"바른 연애 길잡이","어느 날 공주가 되어버렸다","신비","칼 가는 소녀","이번생도 잘부탁해","청춘블라썸","구남친이 내게 반했다","연애혁명","하루만 네가 되고싶어"};
