@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     View.OnClickListener btnListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            Intent intent = new Intent(getApplicationContext(),ResultActivity.class);
+            Intent intent = new Intent(getApplicationContext(),ResultActivity2.class);
             intent.putExtra("voteCount",voteCount);
             intent.putExtra("imgNames",imgNames);
             startActivity(intent);
